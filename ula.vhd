@@ -7,7 +7,6 @@ entity ula is
         carry : out std_logic
     );
 end entity ula;
-
 architecture rtl of ula is
     signal s1, s2, s3: std_logic;
 begin
